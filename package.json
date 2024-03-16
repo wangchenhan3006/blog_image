@@ -1,9 +1,23 @@
-name wangchenhan
-version 1.1.0
-
 {
-  "name": "xxfer-pic",
+  "name": "blog_image",
   "version": "1.0.0",
-  "description": "Somewhere to save the file from @xxfer",
-  "author": "LJJ(@xxfer)"
+  "description": "my blog image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangchenhan3006/blog_image.git"
+  },
+  "keywords": [
+    "static",
+    "file"
+  ],
+  "author": "wangchenhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangchenhan3006/blog_image/issues"
+  },
+  "homepage": "https://github.com/wangchenhan3006/blog_image#readme"
 }
