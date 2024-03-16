@@ -1,6 +1,6 @@
 {
   "name": "blog_image",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "my blog image",
   "main": "index.js",
   "scripts": {
